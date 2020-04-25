@@ -1,0 +1,289 @@
+/*------------------------------------------------
+*
+*	Table of contents: 
+*	1. Screen resolution 768px+
+*	2. Screen resolution less than 768px
+*	3. Screen resolution less than 480px
+*
+-------------------------------------------------*/
+
+/*-------------------------------------------------
+	1. Screen resolution 768px+
+-------------------------------------------------*/
+@media only screen and (min-width: 768px) {
+	.menu-style-2 .menu {
+		top: -60px;
+		height: 60px;
+		-webkit-box-shadow: -3px 3px 15px 0px rgba(0,0,0,0.25);
+		box-shadow: -3px 3px 15px 0px rgba(0,0,0,0.25);
+	}
+	.menu-style-2 .show-menu {
+		top: 0;
+	}
+	.menu-style-2 .menu .nav {
+		height: 60px;
+	}
+	.menu-style-2 .menu .nav li {
+		display: inline-block;
+		height: 60px;
+		padding: 24px 15px;
+	}
+	.menu-style-3 .menu {
+		padding-right: 50px;
+	}
+	.menu-style-3 .menu .nav {
+		visibility: hidden;
+		opacity: 0;
+		height: 60px;
+		text-align: right;
+		-webkit-transition: ease-out 0.2s;
+		transition: ease-out 0.2s;
+	}
+	.menu-style-3 .show-menu {
+		padding-right: 60px;
+	}
+	.menu-style-3 .show-menu .nav {
+		visibility: visible;
+		opacity: 1;
+	}
+	.menu-style-3 .menu span {
+		float: left;
+		padding-left: 30px;
+		color: rgb(20, 20, 20);
+		font: 500 24px 'Dosis', sans-serif;
+		line-height: 60px;
+		text-transform: uppercase;
+		letter-spacing: 4px;
+	}
+	.menu-style-3 .menu .nav li {
+		display: inline-block;
+		padding: 24px 15px;
+	}
+	.row.equal {
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+	    display: flex;
+	}
+	.first-side {
+		height: 100%;
+		padding: 0;
+	}
+	.first-side h1 {
+		position: absolute;
+		top: 50%;
+		-webkit-transform: translate(0,-50%);
+		transform: translate(0,-50%);
+		width: 100%;
+		padding: 0 100px;
+	}
+	.scroll-down-btn {
+		display: block;
+		position: absolute;
+		bottom: 100px;
+		left: 50%;
+		-webkit-transform: translate(-50%,0);
+		transform: translate(-50%,0);
+	}
+	.resume-box {
+		display: table;
+		width: 100%;
+	}
+	.resume-date {
+		display: table-cell;
+		width: 40%;
+		padding-right: 30px;
+	}
+
+	.resume-title {
+		display: table-cell;
+		width: 60%;
+	}
+	.testimonial-container {
+		display: inline-block;
+		max-width: 800px;
+		padding: 0 30px;
+	}
+	.customNavigation {
+		position: absolute;
+		top: 50%;
+		left: 0;
+		visibility: visible;
+		-webkit-transform: translate(0,-50%);
+		transform: translate(0,-50%);
+		width: 100%;
+	}
+	.customNavigation ul li {
+		position: absolute;
+		color: rgb(20, 20, 20);
+		font-size: 32px;
+		cursor: pointer;
+		-webkit-transition: linear 0.2s;
+		transition: linear 0.2s;
+	}
+	.customNavigation ul li:hover {
+		color: rgb(160, 160, 160);
+	}
+	.customNavigation ul li:first-child {
+		left: -15px;
+	}
+	.customNavigation ul li:last-child {
+		right: -15px;
+	}
+	.footer-contact-info ul {
+		display: table;
+		width: 100%;
+	}
+	.footer-contact-info ul li {
+		display: table-cell;
+		width: 33.3%;
+		padding: 30px;
+	}
+	#map-canvas {
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+	.footer-content div {
+		position: absolute;
+		top: 50%;
+		-webkit-transform: translate(0,-50%);
+		transform: translate(0,-50%);
+		width: 100%;
+	}
+}
+
+/*-------------------------------------------------
+	2. Screen resolution less than 768px
+-------------------------------------------------*/
+@media only screen and (max-width: 768px) {
+	.menu-style-1 .menu .nav li {
+		padding: 10px 0;
+		font-size: 16px;
+	}
+	.menu-style-2 .menu {
+		visibility: hidden;
+		opacity: 0;
+		background: rgba(255, 255, 255, 0.9);
+		height: 100%;
+	}
+	.menu-style-2 .show-menu {
+		visibility: visible;
+		opacity: 1;
+	}
+	.menu-style-2 .menu .nav {
+		position: relative;
+		top: 50%;
+		-webkit-transform: translate(0,-50%);
+		transform: translate(0,-50%);
+	}
+	.menu-style-2 .menu .nav li {
+		width: 100%;
+		padding: 15px 0;
+	}
+	.menu-style-3 .menu div {
+		position: fixed;
+		top: 60px;
+		left: 0;
+		opacity: 0;
+		visibility: hidden;
+		background: rgba(255, 255, 255, 0.9);
+		width: 100%;
+		height: 100%;
+		-webkit-transition: ease-out 0.2s;
+		transition: ease-out 0.2s;
+	}
+	.menu-style-3 .menu .nav {
+		position: relative;
+		top: 50%;
+		-webkit-transform: translate(0,-50%);
+		transform: translate(0,-50%);
+		text-align: center;
+	}
+	.menu-style-3 .menu .nav li {
+		display: block;
+		padding: 15px 0;
+	}
+	.menu-style-3 .show-menu div {
+		visibility: visible;
+		opacity: 1;
+	}
+	.first-side, 
+	.resume-background, 
+	.footer-contact-info {
+		padding: 100px 30px;
+	}
+	.first-side h1, 
+	.facts-background .row div {
+		margin-bottom: 60px;
+	}
+	.facts-background .row div:last-child {
+		margin: 0;
+	}
+	.resume-title {
+		margin-top: 30px;
+	}
+	.skills-background, 
+	.blog-background, 
+	.contact-content {
+		padding: 100px 15px;
+	}
+	.skills-background .section-title h2, 
+	.contact-background .section-title h2 {
+		text-align: center;
+	}
+	.skills-background .section-title h2::after, 
+	.contact-background .section-title h2::after {
+		left: 50%;
+		-webkit-transform: translate(-50%,0);
+		transform: translate(-50%,0);
+	}
+	.skills-background .section-title p, 
+	.contact-background .section-title p {
+		position: relative;
+		left: 50%;
+		-webkit-transform: translate(-50%,0);
+		transform: translate(-50%,0);
+		display: inline-block;
+		max-width: 460px;
+		text-align: center;
+	}
+	.services-background .section-title {
+		padding: 0 15px;
+	}
+	.mfp-container, 
+	.testimonial-container {
+		padding: 0 30px;
+	}
+	.blog-background .owl-carousel .owl-stage-outer {
+		margin: 0 -15px;
+		padding: 0 15px 20px 15px;
+	}
+	.customNavigation {
+		visibility: hidden;
+	}
+	#map-canvas {
+		width: 100%;
+		height: 400px;
+	}
+	.portfolio-single-top-images div {
+		margin-bottom: 30px;
+	}
+	.portfolio-single-top-images div:last-child {
+		margin: 0;
+	}
+}
+
+/*-------------------------------------------------
+	3. Screen resolution less than 480px
+-------------------------------------------------*/
+@media only screen and (max-width: 480px) {
+	.footer-contact-info ul li {
+		display: block;
+		width: 100%;
+	}
+}
