@@ -6,9 +6,19 @@
     <description>Recent content on Dmitry Kuznetsov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 25 Apr 2020 19:40:43 +0300</lastBuildDate>
     
 	<atom:link href="https://kuznetsov.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>phpqa</title>
+      <link>https://kuznetsov.io/projects/phpqa/</link>
+      <pubDate>Sat, 25 Apr 2020 19:40:43 +0300</pubDate>
+      
+      <guid>https://kuznetsov.io/projects/phpqa/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

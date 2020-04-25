@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kuznetsov.io/categories/</loc>
+    <loc>https://kuznetsov.io/</loc>
+    <lastmod>2020-04-25T19:40:43+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuznetsov.io/</loc>
+    <loc>https://kuznetsov.io/projects/phpqa/</loc>
+    <lastmod>2020-04-25T19:40:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kuznetsov.io/projects/</loc>
+    <lastmod>2020-04-25T19:40:43+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kuznetsov.io/categories/</loc>
   </url>
   
   <url>
