@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dmitry Kuznetsov</title>
-    <link>https://kuznetsov.io/</link>
-    <description>Recent content on Dmitry Kuznetsov</description>
+    <title>Posts on Dmitry Kuznetsov</title>
+    <link>https://kuznetsov.io/posts/</link>
+    <description>Recent content in Posts on Dmitry Kuznetsov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2020 19:40:43 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kuznetsov.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kuznetsov.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Курс автоматизированного тестирования &lt;span&gt;с использованием PHP и Codeception&lt;/span&gt;</title>
-      <link>https://kuznetsov.io/projects/phpqa/</link>
-      <pubDate>Sat, 25 Apr 2020 19:40:43 +0300</pubDate>
-      
-      <guid>https://kuznetsov.io/projects/phpqa/</guid>
-      <description> В рамка программы обучения Управление Цифровым Продуктом, мною был выбран продукт &#34;Курс автоматизированного тестирования&#34;. Ознакомиться с дипломной работой можно здесь  </description>
-    </item>
     
     <item>
       <title>Личный тайм-менеджемент</title>
