@@ -1,10 +1,5 @@
 $(function () {
     "use strict";
-
-    console.log('------------');
-    console.log('Template: https://themeforest.net/item/crown-personal-vcard-template/19976344');
-    console.log('------------');
-
     /*===============================================
       Happy face
     ===============================================*/
@@ -134,7 +129,7 @@ $(function () {
     /*===============================================
       MixItUp
     ===============================================*/
-    // $('#mix-container').mixItUp();
+    $('#mix-container').mixItUp();
 
     /*===============================================
       Magnific Popup

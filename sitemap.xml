@@ -4,17 +4,27 @@
   
   <url>
     <loc>https://kuznetsov.io/</loc>
-    <lastmod>2020-04-25T19:40:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuznetsov.io/projects/</loc>
-    <lastmod>2020-04-25T19:40:43+03:00</lastmod>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://kuznetsov.io/projects/phpqa/</loc>
-    <lastmod>2020-04-25T19:40:43+03:00</lastmod>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kuznetsov.io/projects/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kuznetsov.io/tags/management/</loc>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kuznetsov.io/tags/</loc>
+    <lastmod>2020-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,61 +33,63 @@
   </url>
   
   <url>
-    <loc>https://kuznetsov.io/post/190478709228/time-management/</loc>
+    <loc>https://kuznetsov.io/posts/time-management/</loc>
     <lastmod>2020-01-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuznetsov.io/post/186361320788/avatimer/</loc>
+    <loc>https://kuznetsov.io/tags/experiment/</loc>
     <lastmod>2019-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuznetsov.io/post/184323565913/onboarding/</loc>
+    <loc>https://kuznetsov.io/posts/avatimer/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kuznetsov.io/tags/teamlead/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuznetsov.io/post/183570674003/changes/</loc>
+    <loc>https://kuznetsov.io/posts/20190420_onbording/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kuznetsov.io/posts/20190319_changes/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuznetsov.io/post/183285825283/decisions/</loc>
+    <loc>https://kuznetsov.io/posts/20190307_decisions/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuznetsov.io/post/183240920373/avoid/</loc>
+    <loc>https://kuznetsov.io/posts/20190305_avoid/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuznetsov.io/post/183222340868/before-meeting/</loc>
+    <loc>https://kuznetsov.io/posts/20190304_before-meeting/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuznetsov.io/post/183222299728/rules/</loc>
+    <loc>https://kuznetsov.io/posts/20190304_rules/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuznetsov.io/post/183222418823/meeting/</loc>
+    <loc>https://kuznetsov.io/posts/20190304_meeting/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kuznetsov.io/post/183222533163/retro/</loc>
+    <loc>https://kuznetsov.io/posts/20190304_retro/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kuznetsov.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kuznetsov.io/tags/</loc>
   </url>
   
 </urlset>
