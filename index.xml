@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dmitry Kuznetsov</title>
-    <link>https://kuznetsov.io/</link>
+    <link>https://kuznetsov.dev/</link>
     <description>Recent content on Dmitry Kuznetsov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kuznetsov.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kuznetsov.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Курс автоматизированного тестирования &lt;span&gt;с использованием PHP и Codeception&lt;/span&gt;</title>
-      <link>https://kuznetsov.io/projects/phpqa/</link>
+      <link>https://kuznetsov.dev/projects/phpqa/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/projects/phpqa/</guid>
+      <guid>https://kuznetsov.dev/projects/phpqa/</guid>
       <description> В рамка программы обучения Управление Цифровым Продуктом, мною был выбран продукт &#34;Курс автоматизированного тестирования&#34;. Ознакомиться с дипломной работой можно здесь  </description>
     </item>
     
     <item>
       <title>Личный тайм-менеджемент</title>
-      <link>https://kuznetsov.io/posts/time-management/</link>
+      <link>https://kuznetsov.dev/posts/time-management/</link>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/posts/time-management/</guid>
+      <guid>https://kuznetsov.dev/posts/time-management/</guid>
       <description>Некоторое время назад, я пришел к пониманию, что мне очень важно отслеживать баланс в своих занятиях. Поясню.
 Например, если работать больше 2х дней подряд дольше 12 часов - потом такое же количество дней будут крайне неэффективны. А чтобы быстрее восстановиться, придется откусывать это время от других занятий: быт, спорт, друзья, хобби. Казалось бы - всего лишь пара дней незапланированной переработки - и все может поехать. С учетом того, что в среднем, я работаю ~50-60 часов в неделю, проблема для меня оказалась более, чем актуальной.</description>
     </item>
     
     <item>
       <title>Обновляем фото в telegram по расписанию</title>
-      <link>https://kuznetsov.io/posts/avatimer/</link>
+      <link>https://kuznetsov.dev/posts/avatimer/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/posts/avatimer/</guid>
+      <guid>https://kuznetsov.dev/posts/avatimer/</guid>
       <description>На фоне повторного хайпа приложения FaceApp, решил-таки попробовать состарить свое фото. Результат получился так себе, и вообще, я больше проникся фильтром, который накладывает улыбку. Я зашел в телеграм, чтобы поделиться результатом с друзьями, и меня осенило. Почему бы не менять протокольную фотку в профиле на такую же, только с наложенным фильтром &amp;ldquo;улыбки&amp;rdquo;, в зависимости от дня недели? В течении рабочей недели твой профиль деловой и серьезный, а по выходным &amp;ldquo;можешь себе позволить&amp;rdquo; :-)</description>
     </item>
     
     <item>
       <title>Про онбординг</title>
-      <link>https://kuznetsov.io/posts/20190420_onbording/</link>
+      <link>https://kuznetsov.dev/posts/20190420_onbording/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/posts/20190420_onbording/</guid>
+      <guid>https://kuznetsov.dev/posts/20190420_onbording/</guid>
       <description>Предпложим, к вам в группу выходит новый сотрудник. Ему предстоит процесс онбординга. Он будет знакомиться с внутренними регламентами, вы будете рассказать ему, с какими проектами предстоит работать, какие технологии используются и т.д.
 Если процесс онбординга пока не выстроен, то почему бы не начать создавать его прямо сейчас? Попросите новичка по шагам записать, где он регистрируется, какие команды выполняет и занести эту информацию в общую документацию. Если централизованной документации пока нет - воспользуйтесь любым сервисом, который позволяет ее организовать, например https://www.</description>
     </item>
     
     <item>
       <title>Про нововведения</title>
-      <link>https://kuznetsov.io/posts/20190319_changes/</link>
+      <link>https://kuznetsov.dev/posts/20190319_changes/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/posts/20190319_changes/</guid>
+      <guid>https://kuznetsov.dev/posts/20190319_changes/</guid>
       <description>Каждый раз, когда мы выбираем или придумываем новый подход в разработке (именование, структуризация кода тут же), мы создаём стрессовую ситуацию для своих коллег.
 Вам кажется, что все просто и очевидно, но вы пришли к этим изменениям не за один день. А вашим коллегам придется формировать новую привычку, либо, что сложнее, ломать старую. Проявите терпение и понимание.
 Будьте готовы нести ответственность и оказывать полное сопровождение, поддержку, а так же проводить обучение. Если вы этого не сделаете, то велика вероятность того, что ваше предложение будет отвергнуто, заброшено, либо будет использоваться не по назначению.</description>
@@ -62,48 +62,48 @@
     
     <item>
       <title>Про решения</title>
-      <link>https://kuznetsov.io/posts/20190307_decisions/</link>
+      <link>https://kuznetsov.dev/posts/20190307_decisions/</link>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/posts/20190307_decisions/</guid>
+      <guid>https://kuznetsov.dev/posts/20190307_decisions/</guid>
       <description>Решения должны приниматься командой, а не конкретным человеком. Одна из самых распространенных ошибок начинающего тимлида - решить, что самому сделать быстрее и уйти в омут с головой. В итоге лид делает работу своих коллег, вместо того, чтобы заниматься стратегическим планированием. А у коллег падает мотивация и интерес - они видят, что им не доверяют.
 Один из вариантов решения - обсуждать с командой сроки, реализацию и исполнителей в режиме фасилитатора, то есть предоставить команде возможность взять на себя ответственность, а не навязывать свое мнение.</description>
     </item>
     
     <item>
       <title>Избегаем неопределенности</title>
-      <link>https://kuznetsov.io/posts/20190305_avoid/</link>
+      <link>https://kuznetsov.dev/posts/20190305_avoid/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/posts/20190305_avoid/</guid>
+      <guid>https://kuznetsov.dev/posts/20190305_avoid/</guid>
       <description>Обязательно нужно вытягивать из руководства стратегию развития, желательно на год. И доносить ее до своих коллег. Никто не любит ощущение неопределенности и закрытости. Твои коллеги будут чувствовать уверенность, если не в компании, так в тебе, потому что ты открыт для диалога и рассказываешь куда идём.</description>
     </item>
     
     <item>
       <title>До собрания</title>
-      <link>https://kuznetsov.io/posts/20190304_before-meeting/</link>
+      <link>https://kuznetsov.dev/posts/20190304_before-meeting/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/posts/20190304_before-meeting/</guid>
+      <guid>https://kuznetsov.dev/posts/20190304_before-meeting/</guid>
       <description>Предупреждать о проведении собрания стоит заранее, чтобы у людей была возможность подготовиться и задать правильные вопросы</description>
     </item>
     
     <item>
       <title>Правила для всех</title>
-      <link>https://kuznetsov.io/posts/20190304_rules/</link>
+      <link>https://kuznetsov.dev/posts/20190304_rules/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/posts/20190304_rules/</guid>
+      <guid>https://kuznetsov.dev/posts/20190304_rules/</guid>
       <description>Если делать исключение, то тоже для всех.
 Прежде, чем загонять людей в жёсткие рамки - подумай, положительно ли это скажется на команде и результате.</description>
     </item>
     
     <item>
       <title>Проведение совещаний</title>
-      <link>https://kuznetsov.io/posts/20190304_meeting/</link>
+      <link>https://kuznetsov.dev/posts/20190304_meeting/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/posts/20190304_meeting/</guid>
+      <guid>https://kuznetsov.dev/posts/20190304_meeting/</guid>
       <description>В совещании должна учавствовать вся команда (при возможности), неважно будь то лично или удаленно.
 Люди не будут терять контекст и чувствовать себя за бортом.
 Хорошая практика - после совещания присылать итоги встречи всем участникам</description>
@@ -111,10 +111,10 @@
     
     <item>
       <title>Ретроспектива</title>
-      <link>https://kuznetsov.io/posts/20190304_retro/</link>
+      <link>https://kuznetsov.dev/posts/20190304_retro/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/posts/20190304_retro/</guid>
+      <guid>https://kuznetsov.dev/posts/20190304_retro/</guid>
       <description>Прекрасная практика подвести итоги прошедшей недели - это ретроспектива. Каждый член команды может рассказать о том, что было хорошего и плохого.
 Негативные моменты нужно обязательно фиксировать и прорабатывать.
 В случае работы над негативными сценариями - команда будет чувствовать прогресс. Это даёт эффект уверенности.</description>

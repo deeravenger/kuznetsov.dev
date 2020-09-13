@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>experiment on Dmitry Kuznetsov</title>
-    <link>https://kuznetsov.io/tags/experiment/</link>
+    <link>https://kuznetsov.dev/tags/experiment/</link>
     <description>Recent content in experiment on Dmitry Kuznetsov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kuznetsov.io/tags/experiment/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kuznetsov.dev/tags/experiment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Обновляем фото в telegram по расписанию</title>
-      <link>https://kuznetsov.io/posts/avatimer/</link>
+      <link>https://kuznetsov.dev/posts/avatimer/</link>
       <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://kuznetsov.io/posts/avatimer/</guid>
+      <guid>https://kuznetsov.dev/posts/avatimer/</guid>
       <description>На фоне повторного хайпа приложения FaceApp, решил-таки попробовать состарить свое фото. Результат получился так себе, и вообще, я больше проникся фильтром, который накладывает улыбку. Я зашел в телеграм, чтобы поделиться результатом с друзьями, и меня осенило. Почему бы не менять протокольную фотку в профиле на такую же, только с наложенным фильтром &amp;ldquo;улыбки&amp;rdquo;, в зависимости от дня недели? В течении рабочей недели твой профиль деловой и серьезный, а по выходным &amp;ldquo;можешь себе позволить&amp;rdquo; :-)</description>
     </item>
     
