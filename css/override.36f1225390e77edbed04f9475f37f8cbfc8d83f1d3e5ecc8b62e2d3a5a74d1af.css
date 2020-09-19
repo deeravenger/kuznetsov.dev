@@ -1,0 +1,12 @@
+.sidebar {
+    width: 25% !important;
+}
+.content {
+    width: 75% !important;
+}
+.page-top {
+    width: 75% !important;
+}
+.sidebar .logo-title {
+    padding-top: 60px;
+}
