@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow:
-Host: https://kuznetsov.io
-Sitemap: https://kuznetsov.io/sitemap.xml
+Host: https://kuznetsov.dev
+Sitemap: https://kuznetsov.dev/sitemap.xml
