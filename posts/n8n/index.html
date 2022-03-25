@@ -1,0 +1,57 @@
+<!doctype html><html dir=ltr lang=ru data-theme=dark><head><title>Dmitry Kuznetsov
+|
+N8n - открытая альтернатива Zapier</title><meta charset=utf-8><meta name=generator content="Hugo 0.85.0"><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name=description content="
+      Как я нашел и настроил бесплатный аналог Zapier и IFTTT
+
+
+    "><link rel=stylesheet href=/css/main.min.beb4ded4d3d7b57eaaf7abaedb95860a68a8e8c2320b688e547ba30ead224a19.css integrity="sha256-vrTe1NPXtX6q96uu25WGCmio6MIyC2iOVHujDq0iShk=" crossorigin=anonymous type=text/css><link rel=stylesheet href=/css/markupHighlight.min.058b31f17db60602cc415fd63b0427e7932fbf35c70d8e341a4c39385f5f6f3e.css integrity="sha256-BYsx8X22BgLMQV/WOwQn55MvvzXHDY40Gkw5OF9fbz4=" crossorigin=anonymous type=text/css><link rel=stylesheet href=/css/override.min.c4ef93f99f068d7bfc3b070f7eeddd14b511c6e2b8c1e3ca28449fcfe59cdd1d.css integrity="sha256-xO+T+Z8GjXv8OwcPfu3dFLURxuK4wePKKESfz+Wc3R0=" crossorigin=anonymous media=screen><link rel=stylesheet href=/css/404.min.8af5cba8db45fcd9bffa951d2cb07c1b34c55055091a151d255d39bc2ccfc919.css integrity="sha256-ivXLqNtF/Nm/+pUdLLB8GzTFUFUJGhUdJV05vCzPyRk=" crossorigin=anonymous media=screen><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin=anonymous><link rel="shortcut icon" href=/favicons/favicon.ico type=image/x-icon><link rel=apple-touch-icon sizes=180x180 href=/favicons/apple-touch-icon.png><link rel=icon type=image/png sizes=32x32 href=/favicons/favicon-32x32.png><link rel=icon type=image/png sizes=16x16 href=/favicons/favicon-16x16.png><link rel=canonical href=/posts/n8n/><script type=text/javascript src=/js/anatole-header.min.2a2cd9614b7d007dfbb75e8da19e3a0fa872ceab53c6d000c00b7a0c89b85bfc.js integrity="sha256-KizZYUt9AH37t16NoZ46D6hyzqtTxtAAwAt6DIm4W/w=" crossorigin=anonymous></script><meta name=twitter:card content="summary"><meta name=twitter:title content="N8n - открытая альтернатива Zapier"><meta name=twitter:description content="Как я нашел и настроил бесплатный аналог Zapier и IFTTT"><script type=application/ld+json>{"@context":"http://schema.org","@type":"BlogPosting","articleSection":"posts","name":"N8n - открытая альтернатива Zapier","headline":"N8n - открытая альтернатива Zapier","alternativeHeadline":"","description":"
+      Как я нашел и настроил бесплатный аналог Zapier и IFTTT
+
+
+    ","inLanguage":"ru","isFamilyFriendly":"true","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/kuznetsov.dev\/posts\/n8n\/"},"author":{"@type":"Person","name":"Dmitry Kuznetsov"},"creator":{"@type":"Person","name":"Dmitry Kuznetsov"},"accountablePerson":{"@type":"Person","name":"Dmitry Kuznetsov"},"copyrightHolder":{"@type":"Person","name":"Dmitry Kuznetsov"},"copyrightYear":"2022","dateCreated":"2022-03-25T20:52:30.00Z","datePublished":"2022-03-25T20:52:30.00Z","dateModified":"2022-03-25T20:52:30.00Z","publisher":{"@type":"Organization","name":"Dmitry Kuznetsov","url":"https://kuznetsov.dev/","logo":{"@type":"ImageObject","url":"https:\/\/kuznetsov.dev\/favicons\/favicon-32x32.png","width":"32","height":"32"}},"image":[],"url":"https:\/\/kuznetsov.dev\/posts\/n8n\/","wordCount":"502","genre":[],"keywords":["manual","open-source","todoist","telegram","n8n"]}</script><script>(function(b,d,e,a,g){b[a]=b[a]||[],b[a].push({'gtm.start':(new Date).getTime(),event:'gtm.js'});var f=d.getElementsByTagName(e)[0],c=d.createElement(e),h=a!='dataLayer'?'&l='+a:'';c.async=!0,c.src='https://www.googletagmanager.com/gtm.js?id='+g+h,f.parentNode.insertBefore(c,f)})(window,document,'script','dataLayer','GTM-KJG8966')</script></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJG8966" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript><header><div class="page-top
+."><a role=button class=navbar-burger data-target=navMenu aria-label=menu aria-expanded=false><span aria-hidden=true></span><span aria-hidden=true></span><span aria-hidden=true></span></a><nav><ul class=nav__list id=navMenu><div class=nav__links><li><a href=/ title>Блог</a></li><li><a href=/posts/ title>Архив блога</a></li><li><a href=/edu/ title>Учеба</a></li><li><a href=/public/ title>Публичка</a></li></div><ul></ul></ul></nav></div></header><div class=wrapper><aside><div class="sidebar
+."><div class=sidebar__content><div class=logo-title><div class=title><img src=/avatar.jpeg alt="profile picture"><h3 title><a href=/>Дмитрий Кузнецов</a></h3><div class=description><p>[Мог бы быть продактом, но Dev Unit Lead]</p></div></div></div><ul class=social-links><li><a href=https://www.facebook.com/kuznetsovdy rel=me aria-label=Facebook title=Facebook><i class="fab fa-facebook-f fa-2x" aria-hidden=true></i></a></li><li><a href=https://www.linkedin.com/in/kuznetsovdy rel=me aria-label=Linkedin title=Linkedin><i class="fab fa-linkedin-in fa-2x" aria-hidden=true></i></a></li><li><a href=https://github.com/dmkuznetsov rel=me aria-label=GitHub title=GitHub><i class="fab fa-github fa-2x" aria-hidden=true></i></a></li><li><a href=https://t.me/kuznetsov_dev rel=me aria-label=Telegram title=Telegram><i class="fab fa-telegram-plane fa-2x" aria-hidden=true></i></a></li></ul></div><footer class="footer footer--sidebar"><div class=by_farbox><ul class=footer__list><li class=footer__item>&copy;
+Dmitry Kuznetsov
+2022</li></ul></div></footer><script type=text/javascript src=/js/medium-zoom.min.71100d84fab0ad794b8399a66ac810700cc78d703f715dc10af4d7ba7b761362.js integrity="sha256-cRANhPqwrXlLg5mmasgQcAzHjXA/cV3BCvTXunt2E2I=" crossorigin=anonymous></script></div></aside><main><div class=autopagerize_page_element><div class=content><div class="post
+."><div class=post-content><div class=post-title><h1>N8n - открытая альтернатива Zapier</h1></div><p>Как автоматически добавить задачу в Todoist из сообщения в Telegram? - этот вопрос не давал мне покоя пару дней, так как
+я являюсь активным пользователем обоих платформ, а так же сторонником
+методки <a href=https://ru.wikipedia.org/wiki/Getting_Things_Done>GTD</a>.</p><p>Известные мне платформы в виде <a href=https://zapier.com>Zapier</a>, <a href=https://ifttt.com/>IFTTT</a> и других (их оказалось немало)
+не решали эту задачу. Я уж было думал расчехлить навыки программирования и быстро заколхозить интеграцию, но вспомнил о
+сервисе <a href=https://n8n.io/>n8n</a>, который не попал в мою поисковую выдачу. Вспомнил - потому что как-то мне его
+предлагал посмотреть <a href=https://malikov.tech/>ув. тов. Маликов</a>.</p><h2 id=что-такое-n8n-ifttt-zapier>Что такое N8n, IFTTT, Zapier?</h2><p>Суть всех сервисов сводится к тому, чтобы автоматизировать какие-то рутинные операции. И работает это по принципу
+<strong>If</strong> <strong>T</strong>his <strong>T</strong>hen <strong>T</strong>hat (если это, то сделай то).</p><p>Я отношу такие сервисы к классу <code>no code</code> - сервисов. Буквально за несколько минут, без программирования можно настроить
+для себя бизнес-процессы. Например, отправлять сообщение в телегу если вам на почту пришло письмо.
+Чтобы все было максимально просто для конечного пользователя все подобные популярные сервисы предлагают подписку на
+облачную версию (а у большинства другой и нет).</p><h2 id=в-чем-отличие-n8n-от-других>В чем отличие n8n от других?</h2><p>Для меня ключевым отличием n8n от Zapier (да и других сервисов) оказалось то, что он open source, т.е. вы можете
+запросто развернуть сервис у себя на хостинге (но так же доступна и облачная версия).
+А позднее я обнаружил, что в нем можно писать свои обработчики на JavaScript (n8n написан на JS) прям в браузере,
+что максимально развязывает руки и открывает новые возможности для автоматизации.
+Так же не стоит забывать про то, что из коробки у n8n есть более 200 интеграций с самыми популярными сервисами и протоколами.</p><p>Забавно, но триггером к освоению данного инструмента послужило невозможность создать задачи в Todoist из Telegram во всех
+популярных платформах подобного типа.</p><h2 id=разворачиваем-свой-n8n-для-автоматизации-личных-нужд>Разворачиваем свой n8n для автоматизации личных нужд</h2><p>Вот так выглядит мой <code>docker-compose.yml</code> для <strong>n8n</strong>, с хранением БД в <code>SQLite</code> (можно использовать <code>PostgreSQL</code>, но для личных
+целей это кажется overhead).</p><pre><code>version: '3.1'
+
+services:
+n8n:
+image: n8nio/n8n
+restart: always
+environment:
+- N8N_BASIC_AUTH_ACTIVE=true
+- N8N_BASIC_AUTH_USER=&lt;PUT_HERE_YOUR_LOGIN&gt;
+- N8N_BASIC_AUTH_PASSWORD=&lt;PUT_HERE_YOUR_PASSWORD&gt;
+- N8N_VERSION_NOTIFICATIONS_ENABLED=false
+- N8N_HOST=&lt;PUT_HERE_YOUR_DOMAIN&gt;
+- N8N_PORT=5678
+- N8N_PROTOCOL=https
+- WEBHOOK_URL=https://&lt;PUT_HERE_YOUR_DOMAIN&gt;/
+ports:
+- 15678:5678
+volumes:
+- /PATH/TO/.n8n:/home/node/.n8n
+</code></pre><p>Чтобы все было по красоте на вашем vps - советую сразу настроить nginx и выпустить сертификаты для https.</p><h2 id=как-настроить-интеграцию-telegram-и-todoist>Как настроить интеграцию Telegram и Todoist?</h2><p>Для начала нужно добавить 2 интеграции: с Telegram и Todoist. Для этого нажмите на ключик (Credentials) в панели слева и
+нажмите <code>New</code>. Когда оба доступа зарегистрировано - можно нарисовать сам процесс, от триггера, до целевого действия - для
+этого нажмите справа большой красный плюс.</p><p>Во время настройки флоу - нужно придерживаться следующего принципа - есть входящие данные, в каком-то формате. По ходу
+флоу их можно использовать и трансформировать. Но возникает вопрос - а в каком формате приходят данные и где их
+посмотреть? Для этого есть раздел executions, где можно посмотреть “выполнения”. Так можно понять, какой путь
+использовать в условиях.</p><p>В конечном счете, мой воркфлоу принял вот такой вид:</p><p><img src=trigger.png alt=trigger.png></p><p>А позднее я настроил автоматизации, которые мне присылали уведомления в телеграм при выполнении Github Actions.</p><h3 id=полезные-ссылки>Полезные ссылки</h3><ul><li><a href=https://habr.com/ru/company/lanit/blog/529582/>Статья на Хабре: Автоматизация ИБ со вкусом смузи</a></li><li><a href=https://n8n.io/>Официальный сайт n8n</a></li></ul></div><div class=post-footer><div class=info><span class=separator><a class=tag href=/tags/manual/>manual</a><a class=tag href=/tags/open-source/>open-source</a><a class=tag href=/tags/todoist/>todoist</a><a class=tag href=/tags/telegram/>telegram</a><a class=tag href=/tags/n8n/>n8n</a></span></div></div></div></div></div></main></div><footer class="footer footer--base"><div class=by_farbox><ul class=footer__list><li class=footer__item>&copy;
+Dmitry Kuznetsov
+2022</li></ul></div></footer><script type=text/javascript src=/js/medium-zoom.min.71100d84fab0ad794b8399a66ac810700cc78d703f715dc10af4d7ba7b761362.js integrity="sha256-cRANhPqwrXlLg5mmasgQcAzHjXA/cV3BCvTXunt2E2I=" crossorigin=anonymous></script></body></html>
